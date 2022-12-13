@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ErsinSevnc, Full Stack Developer / JavaScript expert. Working as EM @ Huawei/Petal Search
 - 👀 I’m interested in anything about **JS**.
-- 🌱 I’m currently learning ML & AI
 - 📫 How to reach me www.linkedin.com/in/ersin-sevinc || ersinsevnc@gmail.com 
 
 <!---
