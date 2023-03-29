@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErsinSevnc, Full Stack Developer / JavaScript expert. Working as EM @ Huawei/Petal Search
+- 👋 Hi, I’m @ErsinSevnc, Full Stack Developer / JavaScript. Working as Software Developer | Tech Lead @ Huawei/Petal Search
 - 👀 I’m interested in anything about **JS**.
 - 📫 How to reach me www.linkedin.com/in/ersin-sevinc || ersinsevnc@gmail.com 
 
